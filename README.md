@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm [Your Name]</h1>
+<h1 align="center">Hey 👋 I'm Tanishq Khetwal</h1>
 
 <p align="center">
   <strong>Full-Stack Developer | Blockchain Enthusiast | AI & Computer Vision Researcher</strong>
