@@ -6,9 +6,6 @@
   <a href="https://linkedin.com/in/maurodesouza">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/maurodesouza">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
   <a href="https://discord.gg/your-invite">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
@@ -22,6 +19,7 @@ I am a **Computer Science Student** and **Full-Stack Developer** focused on buil
 - 🔭 **Currently working on:** `Proof of Human Work (PoHW)` — a decentralized human verification system on Solana.
 - 🌱 **Recent Research:** Fine-tuning **Vision Transformers (ViT)** using LoRA for plant growth classification.
 - 🏗️ **Past Projects:** Built **EduSage**, a multi-agentic AI system for automated handwritten sheet evaluation.
+- **carboncred**, a carbon credit marketplace build on ethereum .
 - ⚡ **Fun Fact:** I travel home every 6 months to reset and recharge!
 
 ---
@@ -32,15 +30,15 @@ I am a **Computer Science Student** and **Full-Stack Developer** focused on buil
   <tr>
     <td align="center" width="33%">
       <strong>Languages</strong><br />
-      <img src="https://skillicons.dev/icons?i=rust,py,ts,go,cpp,java" />
+      <img src="https://skillicons.dev/icons?i=rust,py,cpp,java" />
     </td>
     <td align="center" width="33%">
       <strong>Frontend & Mobile</strong><br />
-      <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,storybook" />
+      <img src="https://skillicons.dev/icons?i=nextjs,react" />
     </td>
     <td align="center" width="33%">
       <strong>Backend & Infrastructure</strong><br />
-      <img src="https://skillicons.dev/icons?i=nestjs,fastapi,mongodb,aws,docker,solana" />
+      <img src="https://skillicons.dev/icons?i=nestjs,fastapi,mongodb,solidity,solana,hardhat" />
     </td>
   </tr>
 </table>
