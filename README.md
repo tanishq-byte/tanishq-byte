@@ -19,7 +19,6 @@ I am a **Computer Science Student** and **Full-Stack Developer** focused on buil
 - 🔭 **Currently working on:** `Proof of Human Work (PoHW)` — a decentralized human verification system on Solana.
 - 🌱 **Recent Research:** Fine-tuning **Vision Transformers (ViT)** using LoRA for plant growth classification.
 - 🏗️ **Past Projects:** Built **EduSage**, a multi-agentic AI system for automated handwritten sheet evaluation.
-- **carboncred**, a carbon credit marketplace build on ethereum .
 - ⚡ **Fun Fact:** I travel home every 6 months to reset and recharge!
 
 ---
@@ -51,7 +50,7 @@ I am a **Computer Science Student** and **Full-Stack Developer** focused on buil
 | :--- | :--- | :--- |
 | **Proof of Human Work** | Decentralized task-based identity verification. | Rust, Anchor, Solana |
 | **EduSage AI** | Multi-agent AI for scanned sheet alignment/evaluation. | Python, LLMs, CV |
-| **Smart Vending** | Full-stack automated machine management system. | Next.js, FastAPI, MongoDB |
+| **Carboncred** | A carbon credit marketplace build on ethereum . | Ethereum, Alchemy, pinata |
 
 ---
 
