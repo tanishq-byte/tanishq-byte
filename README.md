@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/maurodesouza">
+  <a href="[https://www.linkedin.com/in/tanishq-khetwal-8563a2330/]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discord.gg/your-invite">
+  <a href="https://discordapp.com/users/766851041312112671">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
