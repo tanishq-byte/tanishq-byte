@@ -54,23 +54,3 @@ I am a **Computer Science Student** and **Full-Stack Developer** focused on buil
 
 ---
 
-### 📊 Activity & Contributions
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&show_icons=true&theme=dracula&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurodesouza&layout=compact&theme=dracula" height="170" />
-</div>
-
-<br />
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&theme=dracula" width="100%" />
-</div>
